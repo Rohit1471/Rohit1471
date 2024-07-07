@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit1471
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently using C, C++, Python, HTML, CSS, JavaScript and even learning more...
 - 💞️ I’m looking to collaborate on projects that are uses knowledge of above languages.
